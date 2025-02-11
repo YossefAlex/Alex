@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(202, 181, 174); 
+    text-align: center;
+}
+img{
+    border-radius: 250px;
+}
+ul{
+    list-style-type:none;
+}
